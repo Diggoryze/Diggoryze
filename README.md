@@ -9,7 +9,7 @@
 [![my favorite song](https://spotify-recently-played-readme.vercel.app/api?user=31onhr2zp5nfcn7xsmgcdknkuzae&count=2)](https://open.spotify.com/collection/tracks)
 
 
-## 🏫 My School
+## 🏫 My Type
 <div align="center">
     <img align="center" alt="Coding" width="auto" src="https://res.cloudinary.com/dqtnqk8fq/image/upload/v1739106361/df3ba6edac5d13034a4c_z6qbfq.jpg">
 </div>
