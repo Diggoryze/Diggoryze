@@ -11,7 +11,7 @@
 
 ## 🏫 My School
 <div align="center">
-    <img align="center" alt="Coding" width="auto" src="[https://res.cloudinary.com/dqtnqk8fq/image/upload/v1729838123/430334810_1177982563183368_6337680580620331516_n_mwm7gl.jpg](https://res.cloudinary.com/dqtnqk8fq/image/upload/v1739106361/df3ba6edac5d13034a4c_z6qbfq.jpg)">
+    <img align="center" alt="Coding" width="auto" src="https://res.cloudinary.com/dqtnqk8fq/image/upload/v1739106361/df3ba6edac5d13034a4c_z6qbfq.jpg">
 </div>
 
 
@@ -40,26 +40,3 @@
 </div>
 
 
-
-## 🐍 Snake
-
-<div align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/HaoNguyen2003/HaoNguyen2003/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 🌕 Commit
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-## ⭐ GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" style="height: 190px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="height: 190px;">
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt" alt="GitHub Streak">
-</p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HaoNguyen2003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
